@@ -3,3 +3,4 @@ djangorestframework~=3.14.0
 psycopg2-binary
 python-decouple
 django-filter~=22.1
+gunicorn
